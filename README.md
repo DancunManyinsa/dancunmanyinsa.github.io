@@ -1,4 +1,4 @@
 ## Portfolio 
-Here is a [link] ( https://dancunmanyinsa.github.io/) to my portfolio. 
+Software Engineer - ML Operations
 ## License
 This software is released under the MIT license.
