@@ -1,4 +1,4 @@
 ## Portfolio 
-Here a link to my portfolio https://dancunmanyinsa.github.io
+Here is a [link] (https://dancunmanyinsa.github.io) to my portfolio. 
 ## License
 This software is released under the MIT license.
