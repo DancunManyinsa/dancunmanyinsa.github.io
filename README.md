@@ -1,7 +1,7 @@
 ## Author
 Dancun Manyinsa - Portfolio project 
 
-I'm a Python, Rust, Zig and C enthusiast interested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
+I'm a Python, Rust, Zig and C enthusiast. 
 
 ## Portfolio project 
 Profession: Software Engineer - ML Operations
