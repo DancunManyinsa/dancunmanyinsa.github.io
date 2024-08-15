@@ -5,6 +5,7 @@
 ## Portfolio project 
 
 > Profession: Software Engineer - ML Operations
+
 > Python, Rust, Zig and C enthusiast. 
 
 
