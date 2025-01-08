@@ -6,7 +6,11 @@
 
 > Profession: Software Engineer - ML Operations
 
-> Python, Rust, Zig and C enthusiast. 
+> HTML, HTMX, CSS
+
+> Python, Rust, Zig, C
+
+> Bash, Powershell 
 
 
 ## License
