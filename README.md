@@ -6,6 +6,8 @@
 
 > Profession: Software Engineer - ML Operations
 
+## Programming Languages
+
 > HTML, HTMX, CSS
 
 > Python, Rust, Zig, C
