@@ -8,9 +8,9 @@
 
 ## Programming Languages
 
-> HTML, HTMX, CSS
+> HTML, HTMX, CSS, Pyscript
 
-> Python, Rust, Zig, C
+> Python, Micropython, Rust, Zig, C
 
 > Bash, Powershell 
 
