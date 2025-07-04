@@ -10,9 +10,9 @@
 
 > HTML, HTMX, CSS, Pyscript
 
-> Python, Micropython, Go(routines and compilation), Rust, Carbon==C++, Zig==C
+> Implicit: Python, Micropython, Go(routines and compilation), Rust, Carbon==C++, Zig==C
 
-> Modular(Mojo)
+> Explicit: Modular(Mojo)
 
 > Bash, Powershell 
 
