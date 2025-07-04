@@ -10,7 +10,7 @@
 
 > HTML, HTMX, CSS, Pyscript
 
-> Python, Micropython, Rust, Carbon==C++, Zig==C
+> Python, Micropython, Go(routines and compilation), Rust, Carbon==C++, Zig==C
 
 > Bash, Powershell 
 
