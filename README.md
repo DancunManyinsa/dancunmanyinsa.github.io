@@ -12,6 +12,8 @@
 
 > Python, Micropython, Go(routines and compilation), Rust, Carbon==C++, Zig==C
 
+> Modular(Mojo)
+
 > Bash, Powershell 
 
 
