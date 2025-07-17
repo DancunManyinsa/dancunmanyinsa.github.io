@@ -7,8 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
   <lastBuildDate>Thu, 14 Nov 2024 01:29:29 +0300</lastBuildDate>
-	<atom:link href="https://dancunmanyinsa.github.io/index.xml" rel="self" type="application/rss+xml" />
-	
+	<atom:link href="https://dancunmanyinsa.github.io/index.xml" rel="self" type="application/rss+xml" />	
     <item>
       <title>Engineer Dancun</title>
       <link>https://dancunmanyinsa.github.io/about/</link>
@@ -16,7 +15,6 @@
       
       <guid>https://dancunmanyinsa.github.io/about/</guid>
       <description>I'm Dancun. I am a software engineer and CIO. I am at the intersection between computational engineering models and production infrastructure. I have the grit to see through complex solutions and a knack for problem solving.</description>
-    </item>
-    
+    </item>   
   </channel>
 </rss>
