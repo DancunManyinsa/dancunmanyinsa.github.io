@@ -2,200 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engineer Dancun</title>
-    <link>https://devopsengineerdan.github.io/</link>
+    <link>https://dancunmanyinsa.github.io/</link>
     <description>Recent content on Engineer Dancun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
   <lastBuildDate>Thu, 14 Nov 2024 01:29:29 +0300</lastBuildDate>
-	<atom:link href="https://devopsengineerdan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-	  
-      <item>
-      <title>Secure Code Review - Path Traversal Bugs</title>
-      <link>https://devopsengineerdan.github.io/posts/secure_code_path_traversal/</link>
-      <pubDate>Fri, 15 Nov 2024 16:59:04 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/secure_code_path_traversal/</guid>
-      <description> </description>
-    </item>
-    
+	<atom:link href="https://dancunmanyinsa.github.io/index.xml" rel="self" type="application/rss+xml" />
+	
     <item>
-      <title>Secure Code Review - Hash Length Extension Attack</title>
-      <link>https://devopsengineerdan.github.io/posts/secure_code_hash_length/</link>
-      <pubDate>Fri, 15 Nov 2024 16:53:41 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/secure_code_hash_length/</guid>
-      <description> </description>
-    </item>
-    
-        <item>
-      <title>GOAD Part 2: Domain Enumeration</title>
-      <link>https://devopsengineerdan.github.io/posts/goad_part2/</link>
-      <pubDate>Thu, 14 Nov 2024 01:29:29 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/goad_part2/</guid>
-      <description> GOAD Part 2: Domain Enumeration </description>
-    </item>
-    
-    <item>
-      <title>GOAD Part 1: AD Recon, Password Spraying, ASREPRoasting &amp; LLMNR Poisoning</title>
-      <link>https://devopsengineerdan.github.io/posts/goad_part1/</link>
-      <pubDate>Thu, 14 Nov 2024 01:29:20 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/goad_part1/</guid>
-      <description> GOAD Part 1: AD Recon, Password Spraying , ASREPRoasting &amp;amp; LLMNR Poisoning </description>
-    </item>
-    
-    <item>
-      <title>Creating malicious .MSIX files for initial access</title>
-      <link>https://devopsengineerdan.github.io/posts/msix/</link>
-      <pubDate>Tue, 12 Nov 2024 23:43:31 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/msix/</guid>
-      <description>Creating malicious .MSIX files for initial access  Table of Contents   Introduction The MSIX File Format  Package Payload Footprint Files   Package Support Framework  StartingScriptWrapper.ps1   Analysis of a malicious sample  AppxManifest Config.json StartingScriptWrapper usJzY The Target Script   Building a malicious msix for Initial Access  Setting up the MSIX packaging tool and our setup file The implant being staged Create an SSL certificate Bundle the package and stage our loader   Testing our malicious sample  Introduction  I recently worked on a project involving adversary emulation of the BlackCat/ALPHV ransomware operation.</description>
-    </item>
-    
-    <item>
-      <title>Best Practices for Engineering ML Pipelines - Part 2</title>
-      <link>https://devopsengineerdan.github.io/posts/best-practices-for-engineering-data-pipelines-part2/</link>
-      <pubDate>Sat, 09 Sep 2023 13:30:03 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/best-practices-for-engineering-data-pipelines-part2/</guid>
-      <description>This is the second part in a series of articles demonstrating best practices for engineering ML pipelines and deploying them to production. In the first part we focused on project setup - everything from codebase structure to configuring a CI/CD pipeline and making an initial deployment of a skeleton pipeline.
-In this part we are going to focus on developing a fully-operational pipeline and will cover:
- A simple approach to data and model versioning, using cloud object storage.</description>
-    </item>
-    
-    <item>
-      <title>Best Practices for Engineering ML Pipelines - Part 1</title>
-      <link>https://devopsengineerdan.github.io/posts/best-practices-for-engineering-data-pipelines-part1/</link>
-      <pubDate>Sat, 09 Sep 2023 13:29:58 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/best-practices-for-engineering-data-pipelines-part1/</guid>
-      <description>The is the first in a series of articles demonstrating how to engineer a machine learning pipeline and deploy it to a production environment. We’re going to assume that a solution to a ML problem already exists within a Jupyter notebook, and that our task is to engineer this solution into an operational ML system, that can train a model, serve it via a web API and automatically repeat this process on a schedule when new data is made available.</description>
-    </item>
-    
-    <item>
-      <title>Deploying ML Models with Bodywork</title>
-      <link>https://devopsengineerdan.github.io/posts/deploying-ml-models-with-bodywork/</link>
-      <pubDate>Sat, 09 Sep 2023 13:28:50 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/deploying-ml-models-with-bodywork/</guid>
-      <description>Deploying ML Models with Bodywork Solutions to ML problems are usually first developed in Jupyter notebooks. We are then faced with an altogether different problem - how to engineer these notebook solutions into your products and systems and continue to maintain their performance through time, after new data is generated.
- Table of Contents   What is this Tutorial Going to Teach Me? Introduction  Why is MLOps Getting so Much Attention?</description>
-    </item>
-    
-    <item>
-      <title>Best Practices for PySpark ETL Projects</title>
-      <link>https://devopsengineerdan.github.io/posts/best-practices-for-pyspark-etl/</link>
-      <pubDate>Sat, 09 Sep 2023 13:27:53 +0300</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/best-practices-for-pyspark-etl/</guid>
-      <description>I have often lent heavily on Apache Spark and the SparkSQL APIs for operationalising any type of batch data-processing &amp;lsquo;job&amp;rsquo;, within a production environment where handling fluctuating volumes of data reliably and consistently are on-going business concerns. These batch data-processing jobs may involve nothing more than joining data sources and performing aggregations, or they may apply machine learning models to generate inventory recommendations - regardless of the complexity, this often reduces to defining Extract, Transform and Load (ETL) jobs.</description>
-    </item>
-    
-    <item>
-      <title> Deploying machine learning models on kubernetes</title>
-      <link>https://devopsengineerdan.github.io/posts/deploying-ml-models-on-kubernetes/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/deploying-ml-models-on-kubernetes/</guid>
-      <description>Deploying Machine Learning Models on Kubernetes Bodywork A common pattern for deploying Machine Learning (ML) models into production environments - e.g. ML models trained using the SciKit Learn or Keras packages (for Python), that are ready to provide predictions on new data - is to expose these ML as RESTful API microservices, hosted from within Docker containers. These can then deployed to a cloud environment for handling everything required for maintaining continuous availability - e.</description>
-    </item>
-    
-    <item>
-      <title>Implementing py-package-template</title>
-      <link>https://devopsengineerdan.github.io/posts/py-package-template/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/py-package-template/</guid>
-      <description>Python Package Template Project  
-The py-template-project package allows users to download the contents of this GiHub repository, containing a skeleton Python package project to be used as a template for kick-starting development of any type of Package; destined for upload to PyPI, or just for local install using Pip. The downloaded package includes the following components to aid rapid development without having to spend time cloning existing set-ups from other projects:</description>
-    </item>
-    
-    <item>
-      <title>Machine learning workflow automation</title>
-      <link>https://devopsengineerdan.github.io/posts/ml-worlflow-automation/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/ml-worlflow-automation/</guid>
-      <description>Automating the Archetypal Machine Learning Workflow and Model Deployment This repository contains a Python-based Machine Learning (ML) project, whose primary aim is to demonstrate the archetypal ML workflow within a Jupyter notebook, together with some proof-of-concept ideas on automating key steps, using the Titanic binary classification dataset hosted on Kaggle. The ML workflow includes: data exploration and visualisation, feature engineering, model training and selection. The notebook - titanic-ml.ipynb - also yields a persisted prediction pipeline (pickled to the models directory), that is used downstream in the model deployment process.</description>
-    </item>
-    
-    <item>
-      <title>Implementing machine learning bodywork</title>
-      <link>https://devopsengineerdan.github.io/posts/ml-bodywork-core/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/ml-bodywork-core/</guid>
-      <description>Machine Learning Bodywork Core Bodywork deploys machine learning projects developed in Python, to Kubernetes. It helps you to:
- serve models as microservices execute batch jobs run reproducible pipelines  On demand, or on a schedule. It automates repetitive DevOps tasks and frees machine learning engineers to focus on what they do best - solving data problems with machine learning.
-Get Started Bodywork is distributed as a Python package - install it from PyPI:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://devopsengineerdan.github.io/posts/migrate-from-jekyll/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>MicroPython in action</title>
-      <link>https://devopsengineerdan.github.io/posts/micropython-in-action/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/micropython-in-action/</guid>
-      <description>Watch MicroPython in action  
-The MicroPython project This is the MicroPython project, which aims to put an implementation of Python 3.x on microcontrollers and small embedded systems. You can find the official website at micropython.org.
-WARNING: this project is in beta stage and is subject to changes of the code-base, including project-wide name changes and API changes.
-MicroPython implements the entire Python 3.4 syntax (including exceptions, with, yield from, etc.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://devopsengineerdan.github.io/posts/creating-a-new-theme/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://devopsengineerdan.github.io/posts/goisforlovers/</link>
-      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://devopsengineerdan.github.io/posts/hugoisforlovers/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsengineerdan.github.io/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://devopsengineerdan.github.io/about/</link>
+      <title>Engineer Dancun</title>
+      <link>https://dancunmanyinsa.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsengineerdan.github.io/about/</guid>
-      <description>I am a software engineer. I major in the fields of Cybersecurity and Artificial Intelligence, and I have the grit to see through complex solutions.</description>
+      <guid>https://dancunmanyinsa.github.io/about/</guid>
+      <description>I'm Dancun. I am a software engineer and CIO. I am at the intersection between computational engineering models and production infrastructure. I have the grit to see through complex solutions and a knack for problem solving.</description>
     </item>
     
   </channel>
