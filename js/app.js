@@ -1,5 +1,6 @@
 /* -----------------------------------------------
-/* How to use? : Check the GitHub README
+/* How to use? : Check the GitHub README https://github.com/VincentGarreau/particles.js  
+   Copyright (c) Vincent Garreau;  
 /* ----------------------------------------------- */
 
 /* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
