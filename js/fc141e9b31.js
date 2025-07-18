@@ -1,3 +1,7 @@
+/*
+  Copyright (c) fontawesome.com; 
+*/
+
 window.FontAwesomeCdnConfig = {
   autoA11y: {
     enabled: true
