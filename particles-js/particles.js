@@ -1,5 +1,6 @@
 /* -----------------------------------------------
 /* Author : Vincent Garreau  - vincentgarreau.com
+/* Copyright (c) Vincent Garreau; 
 /* MIT license: http://opensource.org/licenses/MIT
 /* Demo / Generator : vincentgarreau.com/particles.js
 /* GitHub : github.com/VincentGarreau/particles.js
